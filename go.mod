@@ -1,4 +1,4 @@
-module github.com/fpt/go-pduckdb
+module github.com/xuandianerp/go-pduckdb
 
 go 1.24.2
 
