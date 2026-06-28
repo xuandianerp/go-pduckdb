@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fpt/go-pduckdb/internal/duckdb"
+	"github.com/xuandianerp/go-pduckdb/internal/duckdb"
 	"github.com/stretchr/testify/assert"
 )
 
