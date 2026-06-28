@@ -9,7 +9,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/fpt/go-pduckdb/internal/duckdb"
+	"github.com/xuandianerp/go-pduckdb/internal/duckdb"
 )
 
 // Initialize and register the driver
