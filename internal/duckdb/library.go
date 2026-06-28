@@ -7,8 +7,6 @@ import (
 	"path/filepath"
 	"runtime"
 	"unsafe"
-
-	"github.com/ebitengine/purego"
 )
 
 // LoadDuckDBLibrary attempts to load the DuckDB library from various locations based on the platform
